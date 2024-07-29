@@ -5,8 +5,8 @@ TechWorks Consulting is a consulting company that specializes in providing top-n
 
 The company was founded by a group of experienced IT professionals who saw a need for a better way to match talented individuals with the right job opportunities. They understood that the traditional job search process is often slow and ineffective, so they set out to create a company that could do things differently.
 
-TechWorks Consulting has a unique approach to finding and placing IT professionals. They have a large and constantly growing database of qualified candidates, which they built through networking, referrals, and targeted recruiting efforts. They also have a team of experienced recruiters who are experts at identifying the best candidates for any given position.
-
+TechWorks Consulting has a unique approach to finding and placing IT professionals. They have a large and constantly growing database of qualified candidates, which they built through networking, referrals, and targeted recruiting efforts. They also have a team of experienced recruiters who are experts at identifying the best candidates for any given position. 
+ 
 Thanks to this approach, TechWorks Consulting has quickly become one of the most successful IT staffing companies in the country. Businesses of all sizes, from small startups to large corporations, come to rely on TechWorks Consulting to find the IT talent they need to grow and compete.
 
 The company is particularly known for its ability to place large numbers of IT professionals in a short amount of time. They often work with businesses that are expanding rapidly and need to hire dozens or even hundreds of IT employees in a short period. TechWorks Consulting is able to handle these large-scale hiring projects with ease, thanks to its large database of candidates and experienced recruiting team.
