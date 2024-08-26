@@ -95,3 +95,7 @@ Try to find out the outliers and missing values and clean the data further and a
 
 You can choose any regression model but, in the end, you have to state your reason for choosing that model. You can try multiple models and then pick one with the best accuracy and also state the reason why this model performed better than the others and in what ways you can further improve the accuracy of the selected model.
 
+## Linkedin AI Hawk
+
+git clone https://github.com/feder-cr/LinkedIn_AIHawk_automatic_job_application
+cd LinkedIn_AIHawk_automatic_job_application
